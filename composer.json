@@ -1,12 +1,12 @@
 {
-    "name": "nunomaduro/skeleton-php",
+    "name": "tjw52/aisuite-php",
     "description": "A skeleton repository for my packages",
     "keywords": ["php", "skeleton", "package"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Nuno Maduro",
-            "email": "enunomaduro@gmail.com"
+            "name": "Thomas Weber",
+            "email": "thomasweber@mac.com"
         }
     ],
     "require": {
@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "NunoMaduro\\SkeletonPhp\\": "src/"
+            "ThomasWeber\\AiSuite\\": "src/"
         }
     },
     "autoload-dev": {
